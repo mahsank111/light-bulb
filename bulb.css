@@ -1,0 +1,42 @@
+body{
+    background-color: #2c3f5e;
+}
+
+.main-heading {
+    margin-top: 20vh;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+#button-on {
+    margin-right: 20%;
+}
+
+.button-center {
+    text-align: center;
+}
+
+button {
+    border-radius: 6px;
+    font-size: 18px;
+    margin-bottom: 20px;
+    background-color: orange;
+    color: white;
+    border: none;
+    height: 35px;
+}
+
+
+img { 
+    width: 200px; 
+    display: block;
+    margin: 10px auto; 
+    filter: drop-shadow(50px 50px 100px yellow); 
+}
